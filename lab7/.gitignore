@@ -1,0 +1,9 @@
+# Real API key stays local; see agentic_lab7/api_key.example.py
+agentic_lab7/api_key.py
+
+__pycache__/
+.ipynb_checkpoints/
+
+# Original download (contains the real key)
+Phsy417-Agentic-AI-Lab-main/
+__MACOSX/
